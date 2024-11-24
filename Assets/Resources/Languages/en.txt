@@ -1,0 +1,9 @@
+SETTING=Setting
+MENU=Menu
+RULESNAME=How to play
+RESUME=Resume
+RESTART=Restart
+SHOP=Shop
+RULESTEXT=Tap the screen to move the ball out of the circle and into the circle while dodging the spike
+LEADERBOARD=Leaderboard
+PAUSE=Pause

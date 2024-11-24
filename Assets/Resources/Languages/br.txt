@@ -1,0 +1,9 @@
+SETTING=Configuracao
+MENU=Menu
+RULESNAME=Como jogar
+RESUME=Resumo
+RESTART=Reiniciar
+SHOP=Loja
+RULESTEXT=Toque na tela para mover a bola para fora do circulo e para dentro do circulo enquanto desvia do pico
+LEADERBOARD=Tabela de classificacao
+PAUSE=Pausa
